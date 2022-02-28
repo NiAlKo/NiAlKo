@@ -27,9 +27,9 @@
 <br />
 <br />
 
-### You can contact me:
-
 ---
+
+### You can contact me:
 
 [<img align="left" alt="Instagram." width="50px" src="http://nialko.ru/img/icons/png/social/instagram.png" />][instagram]
 
